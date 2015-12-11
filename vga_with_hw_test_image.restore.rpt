@@ -1,0 +1,88 @@
+Restore Archived Project report for vga_with_hw_test_image
+Thu Dec 10 17:27:24 2015
+Quartus II 64-Bit Version 15.0.0 Build 145 04/22/2015 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus II License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Dec 10 17:27:24 2015 ;
+; Revision Name                   ; vga_with_hw_test_image                ;
+; Top-level Entity Name           ; vga_with_hw_test_image                ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/altera/15.0/vga_with_hw_test_image_v1_0_restored/vga_with_hw_test_image_tmp_archive.qar' into the 'C:/Users/eland_000/Documents/GitHub' directory
+Info: Generated report 'vga_with_hw_test_image.restore.rpt'
+
+
++------------------------------------------------+
+; Files Restored                                 ;
++------------------------------------------------+
+; File Name                                      ;
++------------------------------------------------+
+; qar_info.json                                  ;
+; altpll0.bsf                                    ;
+; altpll0.cmp                                    ;
+; altpll0.ppf                                    ;
+; altpll0.qip                                    ;
+; altpll0.vhd                                    ;
+; debounce.vhd                                   ;
+; hw_image_generator.vhd                         ;
+; ps2_keyboard.vhd                               ;
+; vga_controller.vhd                             ;
+; vga_pll.bsf                                    ;
+; vga_pll.cmp                                    ;
+; vga_pll.ppf                                    ;
+; vga_pll.qip                                    ;
+; vga_pll.vhd                                    ;
+; vga_with_hw_test_image.bdf                     ;
+; vga_with_hw_test_image.out.sdc                 ;
+; vga_with_hw_test_image.qpf                     ;
+; vga_with_hw_test_image.qsf                     ;
+; vga_with_hw_test_image_assignment_defaults.qdf ;
++------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

@@ -1,0 +1,7 @@
+{
+	"common_dir" : "C:/altera/15.0/vga_with_hw_test_image_v1_0_restored/",
+	"acds_version" : "Version 15.0.0",
+	"platform" : "windows",
+	"os" : "Windows 7",
+	"qpf" : "vga_with_hw_test_image.qpf"
+}

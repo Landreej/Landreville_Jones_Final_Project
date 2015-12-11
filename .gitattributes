@@ -15,3 +15,15 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+*.bsf
+*.cmp
+*.ppf
+*.qip
+*.vhd
+*.bak
+*.qpf
+*.bdf
+*.sdc
+*.qsf
+*.rpt
+*.qdf
